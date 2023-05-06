@@ -1,3 +1,7 @@
+
+![jack-adorbs's GitHub stats](https://github-readme-stats.vercel.app/api?username=jack-adorbs&show_icons=true&theme=omni)
+
+
 - 👋 Hi, I’m @jack-adorbs
 - 👀 I’m interested in so many things languages of all forms, philosophy, science, reading, cute critters and more. 
 - 🌱 I’m currently learning as much as I can about all sorts. Improving at Python and LISPs and other languages. 
