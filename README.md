@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on fun projects be it games, language creation, OSdev and more.
 - 📫 How to reach me yet to be told. >:3 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jack-adorbs&show_icons=true&theme=omni"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jack-adorbs&show_icons=true&theme=radical"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jack-adorbs&layout=compact&langs_count=10&theme=omni&hide=brainfuck"/>
 
 <!---
