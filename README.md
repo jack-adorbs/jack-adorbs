@@ -5,7 +5,7 @@
 - 📫 How to reach me yet to be told. >:3 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jack-adorbs&show_icons=true&include_all_commits=true&theme=radical"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jack-adorbs&layout=compact&include_forks=true&langs_count=20&theme=radical&hide=brainfuck"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jack-adorbs&layout=compact&langs_count=20&theme=radical&hide=brainfuck"/>
 
 <!---
 jack-adorbs/jack-adorbs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
