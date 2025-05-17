@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Figgy
-- 👀 I’m interested in so many things languages of all forms, philosophy, science, reading, cute critters and more. 
+- 👀 I’m interested in so many things; languages of all forms, philosophy, science, reading, cute critters and more. 
 - 🌱 I’m currently learning as much as I can about all sorts. Improving at Python and LISPs and other languages. 
 - 💞️ I’m looking to collaborate on fun projects be it games, language creation, OSdev and more.
 - 📫 How to reach me yet to be told. >:3 
