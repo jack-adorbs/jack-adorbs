@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on fun projects, in particular language creation, OSdev and more.
 - 📫 Pop a message to me on <a rel="me" href="https://tech.lgbt/@FoxFunction">Mastodon</a>.
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=FiggyFoxFunc&show_icons=False&include_all_commits=true&theme=synthwave&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=FiggyFoxFunc&show_icons=True&include_all_commits=true&theme=synthwave&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiggyFoxFunc&layout=compact&langs_count=15&theme=synthwave&hide=brainfuck"/>
 
 <!---
