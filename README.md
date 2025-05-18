@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on fun projects, in particular language creation, OSdev and more.
 - 📫 How to reach me yet to be told.
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=FiggyFoxFunc&show_icons=true&include_all_commits=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiggyFoxFunc&layout=compact&langs_count=20&theme=radical&hide=brainfuck"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=FiggyFoxFunc&show_icons=true&include_all_commits=true&theme=synthwave&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiggyFoxFunc&layout=compact&langs_count=10&theme=synthwave&hide=brainfuck"/>
 
 <!---
 jack-adorbs/jack-adorbs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
